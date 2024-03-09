@@ -1,2 +1,6 @@
 # centos_compiler_node
-build scripts for (CentOS Stream 9 EPEL) CI worker w/ podman, go, cargo, gcc, clang
+
+This is a compiler worker, such as we might have for a CI runner or package build worker node.
+
+The repository contains a selection of scripts and configurations used for this use-case.
+
